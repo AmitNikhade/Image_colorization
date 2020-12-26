@@ -1,0 +1,1 @@
+{"model_path": "model.h5", "dataset": "data", "Inception_weights": "inception_resnet_v2_weights_tf_dim_ordering_tf_kernels.h5", "colo_images": "PATH_TO_TEST_IMAGES", "epoch": 2, "batch_size": 20}
